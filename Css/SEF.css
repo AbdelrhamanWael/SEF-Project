@@ -710,7 +710,7 @@ p {
 .sec6parent{
     width: 100%;
     height: 400px;
-    background-image: url('/images/choose.jpg');
+    background-image: url('../images/choose.jpg');
     position: relative;
     background-size: cover;
     background-position: center;
